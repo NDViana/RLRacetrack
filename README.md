@@ -18,7 +18,7 @@ This project implements a Q-learning agent that learns to drive a car around a r
 
 1. Clone this repository:
 ```
-git clone https://github.com/ndviana/RLRacetrack.git
+git clone https://github.com/NDViana/RLRacetrack.git
 cd RLRacetrack
 ```
 
