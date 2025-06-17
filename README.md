@@ -98,7 +98,10 @@ RLRacetrack/
 - Add more complex track layouts
 - Implement a graphical user interface for parameter tuning
 - Add performance metrics and visualization of learning progress
+## Credits
 
+A big thanks to ![Tingsong Ou](https://towardsdatascience.com/solving-reinforcement-learning-racetrack-exercise-building-the-environment-33712602de0c/)
+ for creating the environment and providing a guide to help me learn how to create this project 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
